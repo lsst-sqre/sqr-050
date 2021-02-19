@@ -13,7 +13,7 @@ serial_number: "050"
 doc_id: "SQR-050"
 
 # Title of the document, without the series/serial designation
-doc_title: "EFD data replication"
+doc_title: "The EFD replication service"
 
 # Author names, ordered as a list. Each author name should be formatted as 'First Last'
 authors:
@@ -37,7 +37,7 @@ authors:
 copyright: "2021, Association of Universities for Research in Astronomy, Inc. (AURA)"
 
 # Description. A short, 1-2 sentence statemement used by document indices.
-description: "Investigate solutions for replicating EFD data from the Summit to the LDF"
+description: "Investigate solutions for the EFD replication service."
 
 # Abstract, if available
 # abstract: >
